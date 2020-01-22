@@ -1,0 +1,19 @@
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\Stock Management Software.exe.config
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\Stock Management Software.exe
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\Stock Management Software.pdb
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock Management Software.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock_Management_Software.Properties.Resources.resources
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock_Management_Software.StockMain.resources
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock Management Software.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock Management Software.exe
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock Management Software.pdb
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock_Management_Software.Login.resources
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock_Management_Software.Products.resources
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock_Management_Software.Stock.resources
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\FireSharp.dll
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\RestSharp.dll
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\bin\Debug\RestSharp.xml
+C:\Users\Jason\source\repos\Stock Management Software\Stock Management Software\obj\Debug\Stock Management Software.csproj.CopyComplete
